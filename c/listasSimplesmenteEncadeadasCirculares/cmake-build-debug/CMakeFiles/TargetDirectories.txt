@@ -1,0 +1,3 @@
+/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadasCirculares.dir
