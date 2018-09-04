@@ -1,66 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a156c25d-2bfb-4e91-acdc-0da136067d5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadasCirculares/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listasDuplamenteEncadeadas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/listasDuplamenteEncadeadasCirculares.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/src/de/marcoandra/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/src/de/marcoandra/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/src/de/marcoandra/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasDuplamenteEncadeadasCirculares/src/de/marcoandra/Testar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/listasSimplesmenteEncadeadas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/src/de/marcoandra/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/src/de/marcoandra/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/src/de/marcoandra/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadas/src/de/marcoandra/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/listasSimplesmenteEncadeadasCirculares.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/src/de/marcoandra/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/src/de/marcoandra/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/src/de/marcoandra/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../listasSimplesmenteEncadeadasCirculares/src/de/marcoandra/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/listasDuplamenteEncadeadasCirculares.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/listasDuplamenteEncadeadasCirculares.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/cmake-build-debug/listasDuplamenteEncadeadasCirculares" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/cmake-build-debug/listasDuplamenteEncadeadasCirculares" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasDuplamenteEncadeadasCirculares/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadasCirculares.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadasCirculares.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/listasSimplesmenteEncadeadasCirculares" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/cmake-build-debug/listasSimplesmenteEncadeadasCirculares" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadasCirculares/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Teste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadasCirculares/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadasCirculares/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadasCirculares/Testar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadasCirculares/Testar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadasCirculares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadasCirculares/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadasCirculares/Testar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadasCirculares/Testar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Lista.java" afterDir="false" />
-    </list>
+    <list default="true" id="a156c25d-2bfb-4e91-acdc-0da136067d5c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,14 +40,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-323971767">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Lista.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="99" column="18" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -130,7 +99,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="708" />
     <option name="y" value="27" />
     <option name="width" value="648" />
@@ -142,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,13 +135,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -204,17 +174,18 @@
       <updated>1535898655152</updated>
       <workItem from="1535898659988" duration="638000" />
       <workItem from="1535913781340" duration="23000" />
+      <workItem from="1536067595189" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="661000" />
+    <option name="totallyTimeSpent" value="678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="27" width="648" height="741" extended-state="4" />
+    <frame x="51" y="27" width="1315" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42647058" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42631993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,9 +228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Menu.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/de/marcoandra/No.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -267,6 +235,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="99" column="18" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
         </state>
       </provider>
     </entry>
