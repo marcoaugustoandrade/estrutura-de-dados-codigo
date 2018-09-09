@@ -12,22 +12,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="490b2b60-933d-422d-b417-fdd1e0d2f44e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filaComArranjo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filaComArranjo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/filas/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/filas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/filas/src/de/marcoandra/comArranjo/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/filas/src/de/marcoandra/comArranjo/Testar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasDuplamenteEncadeadas/Testar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadas/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadas/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadas/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadas/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadas/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/out/production/estrutura-de-dados/de/marcoandra/listasSimplesmenteEncadeadas/Teste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Testar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasDuplamenteEncadeadas/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadas/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadas/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadas/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadas/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadas/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadas/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Testar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/estrutura-de-dados/src/de/marcoandra/listasSimplesmenteEncadeadasCirculares/Testar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/listasSimplesmenteEncadeadas.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/listasSimplesmenteEncadeadas.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/pilhas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/pilhas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/pilhas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/pilhas/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,17 +85,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1169111146">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="524">
               <caret line="126" column="31" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -110,9 +130,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="708" />
+    <option name="x" value="181" />
     <option name="y" value="27" />
-    <option name="width" value="658" />
+    <option name="width" value="638" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,6 +144,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -173,14 +194,16 @@
       <workItem from="1535830971614" duration="4000" />
       <workItem from="1535831328419" duration="2425000" />
       <workItem from="1535842580194" duration="1595000" />
+      <workItem from="1536512026183" duration="162000" />
+      <workItem from="1536512420786" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17127000" />
+    <option name="totallyTimeSpent" value="17293000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="27" width="658" height="741" extended-state="4" />
+    <frame x="181" y="27" width="638" height="741" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24980299" />
@@ -217,11 +240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="524">
           <caret line="126" column="31" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

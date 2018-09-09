@@ -1,4 +1,4 @@
-# Install script for directory: /home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadas
+# Install script for directory: /home/marco/projetos/estrutura-de-dados-codigo/c/listasSimplesmenteEncadeadas
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadas/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/marco/projetos/estrutura-de-dados-codigo/c/listasSimplesmenteEncadeadas/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29950be3-07f8-46c6-9c3c-102459bad255" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../c/filaComArranjo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c/filaComArranjo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/comArranjo/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/comArranjo/Testar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Testar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/listasSimplesmenteEncadeadas.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../c/listasSimplesmenteEncadeadas/cmake-build-debug/listasSimplesmenteEncadeadas.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pilhas/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pilhas/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pilhas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pilhas/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1204900793">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="java" value="1177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1177" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/No.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding>
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Fila.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Testar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/de/marcoandra/comArranjo/Pilha.java" />
+        <option value="$PROJECT_DIR$/src/de/marcoandra/comArranjo/Fila.java" />
+        <option value="$PROJECT_DIR$/src/de/marcoandra/comArranjo/Testar.java" />
+        <option value="$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/No.java" />
+        <option value="$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Fila.java" />
+        <option value="$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Testar.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="140" />
+    <option name="y" value="30" />
+    <option name="width" value="1176" />
+    <option name="height" value="647" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="filas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="marcoandra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="marcoandra" type="462c0819:PsiDirectoryNode" />
+              <item name="comArranjo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="filas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="filas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="marcoandra" type="462c0819:PsiDirectoryNode" />
+              <item name="comEncadeamento" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536515767292" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Testar (1)">
+    <configuration name="Testar (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.marcoandra.comEncadeamento.Testar" />
+      <module name="filas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.marcoandra.comEncadeamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.marcoandra.comArranjo.Testar" />
+      <module name="filas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.marcoandra.comArranjo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Testar" />
+      <item itemvalue="Application.Testar (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Testar (1)" />
+        <item itemvalue="Application.Testar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29950be3-07f8-46c6-9c3c-102459bad255" name="Default Changelist" comment="" />
+      <created>1536505646181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536505646181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="27" width="1315" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24743892" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37251654" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comArranjo/Testar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comArranjo/Fila.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/No.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Fila.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/marcoandra/comEncadeamento/Testar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

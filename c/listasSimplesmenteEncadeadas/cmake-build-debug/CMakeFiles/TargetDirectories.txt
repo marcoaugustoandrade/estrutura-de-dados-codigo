@@ -1,3 +1,3 @@
-/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir
+/home/marco/projetos/estrutura-de-dados-codigo/c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marco/projetos/estrutura-de-dados-codigo/c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marco/projetos/estrutura-de-dados-codigo/c/listasSimplesmenteEncadeadas/cmake-build-debug/CMakeFiles/listasSimplesmenteEncadeadas.dir

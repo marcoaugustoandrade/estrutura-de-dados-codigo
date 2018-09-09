@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/marco/projetos/codigos-ed/c/listasSimplesmenteEncadeadas/main.c
+/home/marco/projetos/estrutura-de-dados-codigo/c/filaComArranjo/main.c
 stdio.h
--
-stdlib.h
 -
 
