@@ -21,7 +21,7 @@ public class Fila {
             inicio = no;
             fim = no;
         } else {
-            fim.setProximo(no);
+            fim.setAnterior(no);
             fim = no;
         }
         quantidade++;
@@ -30,8 +30,8 @@ public class Fila {
     public No desinfileirar(){
         No remover = inicio;
         if (!isVazia()){
-            inicio = inicio.getProximo();
-            remover.setProximo(null);
+            inicio = inicio.getAnterior();
+            remover.setAnterior(null);
             quantidade--;
             //Verificando se é o último elemento da fila
             if (isVazia()) fim = null;
