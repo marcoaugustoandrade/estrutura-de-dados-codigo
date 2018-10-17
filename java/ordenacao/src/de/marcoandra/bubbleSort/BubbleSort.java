@@ -8,10 +8,12 @@ public class BubbleSort {
 
         int aux;
 
+        // São necessária elementos.length - 1 iterações para percorrer o vetor
         for(int i = 0; i < elementos.length - 1; i++){
             System.out.println("Iteração: " + i);
 
             for (int j = 0; j < elementos.length - i - 1; j++) {
+
                 if (elementos[j] > elementos[j + 1]) {
                     aux = elementos[j];
                     elementos[j] = elementos[j + 1];
