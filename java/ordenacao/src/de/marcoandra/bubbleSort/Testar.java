@@ -6,6 +6,7 @@ public class Testar {
 
         BubbleSort bubbleSort = new BubbleSort();
         bubbleSort.imprimir();
-        bubbleSort.ordenar();
+        //bubbleSort.ordenar();
+        bubbleSort.ordemDecrescente();
     }
 }
