@@ -2,68 +2,151 @@ package de.marcoandra;
 
 public class Arvore {
 
-    private No no;
+    private int conteudo;
     private Arvore direita;
     private Arvore esquerda;
 
+
     public Arvore() {
-        this.no = null;
-        this.direita = null;
-        this.esquerda = null;
+        conteudo = 0;
+        direita = esquerda = null;
     }
 
-    public Arvore(No no) {
-        this.no = no;
-        this.direita = null;
-        this.esquerda = null;
+    public Arvore(int conteudo) {
+        this.conteudo = conteudo;
+        direita = null;
+        esquerda = null;
     }
 
 
     // Verifica se a árvore está vazia
     public boolean isVazia(){
-        return no == null;
+        return conteudo == 0;
     }
 
     // Inserção de elementos
-    public void inserir(No no){
-       if (isVazia()){
-           this.no = no;
-       } else {
+    public void inserir(int conteudo){
 
-           Arvore novaArvore = new Arvore(no);
+        if (isVazia()){
+           this.conteudo = conteudo;
+        } else {
 
-           // Inserir na esquerda
-           if (no.getConteudo() < this.no.getConteudo()){
+            Arvore novaArvore = new Arvore(conteudo);
+
+            // Inserir na esquerda
+            if (conteudo < this.conteudo){
+               // Caso não tenha filhos na esquerda
                if (this.esquerda == null){
                    this.esquerda = novaArvore;
-               } else {
-                   this.esquerda.inserir(no);
+                   //System.out.println(conteudo + " à esquerda de " + this.conteudo);
+               } else { //
+                   this.esquerda.inserir(conteudo);
                }
-           } else if (no.getConteudo() > this.no.getConteudo()) { // Inserir na direita
-            if (this.direita == null){
-                this.direita = novaArvore;
-            } else {
-                this.direita.inserir(no);
+            } else if (conteudo > this.conteudo) { // Inserir na direita
+                // Caso não tenha filhos na direita
+                if (this.direita == null){
+                    this.direita = novaArvore;
+                    //System.out.println(conteudo + " à direita de " + this.conteudo);
+                } else {
+                    this.direita.inserir(conteudo);
+                }
             }
-           }
        }
     }
 
-    // Percorrer uma árvore
-    // Pre-ordem
+    public boolean buscar(int conteudo){
+        if (isVazia()){
+            return false;
+        }
+        if (this.conteudo == conteudo){
+            return true;
+        } else {
+            if (conteudo < this.conteudo){
+                if (esquerda == null){
+                    return  false;
+                } else {
+                    return esquerda.buscar(conteudo);
+                }
+            } else if (conteudo > this.conteudo){
+                if (direita == null){
+                    return false;
+                } else {
+                    return direita.buscar(conteudo);
+                }
+            }
+        }
+        return false;
+    }
 
-    // In-ordem
+    // Percorrer em pre-ordem
+    public void preOrdem(){
 
-    // Pós-ordem
+        if (!isVazia()){
+
+            System.out.print(conteudo + " ");
+
+            if (esquerda != null){
+                esquerda.preOrdem();
+            }
+            if (direita != null){
+                direita.preOrdem();
+            }
+        }
+    }
+
+    // Percorrer em in-ordem
+    public void inOrdem(){
+        if (!isVazia()){
+
+            if (esquerda != null){
+                esquerda.inOrdem();
+            }
+
+            System.out.print(conteudo + " ");
+
+            if (direita != null){
+                direita.inOrdem();
+            }
+        }
+    }
+
+    // Percorrer em pós-ordem
+    public void posOrdem(){
+        if (!isVazia()){
+            if (esquerda != null){
+                esquerda.posOrdem();
+            }
+            if (direita != null){
+                direita.posOrdem();
+            }
+            System.out.print(conteudo + " ");
+        }
+    }
+
+    // Percorrer em in-ordem invertida
+    public void inOrdemInvertida(){
+        if (!isVazia()){
+
+            if (direita != null){
+                direita.inOrdemInvertida();
+            }
+
+            System.out.print(conteudo + " ");
+
+            if (esquerda != null){
+                esquerda.inOrdemInvertida();
+            }
+        }
+    }
 
 
     // getters e setters
-    public No getNo() {
-        return no;
+    public int getConteudo() {
+        return conteudo;
     }
 
-    public void setNo(No no) {
-        this.no = no;
+    public void setConteudo(int conteudo) {
+        this.conteudo = conteudo;
     }
 
     public Arvore getDireita() {
